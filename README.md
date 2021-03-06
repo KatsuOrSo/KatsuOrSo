@@ -4,7 +4,7 @@
 ### <div align="center">I'm Katsu, a Student, system- & network administrator, project manager and software developer since 2012.</div>  
   
 
-- 🔭 I’m currently working on [Theatica](https://github.com/Theatica) and [RISTKO](https://github.com/ristko)  
+- 🔭 I’m currently working on Theatica and [RISTKO](https://github.com/ristko)  
   
 
 - ☁️ I'm currently learning container orchestration and cloud solutions @ [ByteLotse](https://github.com/ByteLotse) (GERMAN).  
